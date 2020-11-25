@@ -5,6 +5,8 @@ Ahora, un poco de su biografía.
 
 Master 1
 
+Master 2
+
 Le gusta tocar guitarra y cocinar pero últimamente se ha inclinado hacia la programación y la data science.
 Siente que esto es algo que debió aprender hace mucho tiempo
 pero que no había terminado de tomar la decisión. 
