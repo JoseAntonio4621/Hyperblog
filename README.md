@@ -7,5 +7,6 @@ Un blog bueno para la [clase de Git y GitHub](http://Platzi.com/cursos/git-githu
 * Todos los comandos de Git
 * El flujo de trabajo en GitHub
 * El buen amor por las buenas prácticas
+* Creado por el increíble Platzi Team
 
 Y como un amable recordatorio: **Este README.md es un chiste**. Diseñado para ejemplo de clase, si quieres saber más ve al [**curso de Platzi**.](http://Platzi.com/cursos/git-github "curso de Platzi.")
