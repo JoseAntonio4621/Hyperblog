@@ -10,4 +10,5 @@ Un blog bueno para la [clase de Git y GitHub](http://Platzi.com/cursos/git-githu
 * Creado por el increíble Platzi Team
 * Incluye ejemploe en Windows, Linus y Mac
 * Disponible para todas las edades
+
 Y como un amable recordatorio: **Este README.md es un chiste**. Diseñado para ejemplo de clase, si quieres saber más ve al [**curso de Platzi**.](http://Platzi.com/cursos/git-github "curso de Platzi.")
